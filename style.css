@@ -1,0 +1,15 @@
+h1 {
+    color: lightblue;
+}
+
+header h1 {
+    color: rebeccapurple;
+}
+
+.legend {
+    color: maroon;
+}
+
+#orange {
+    color: orange;
+}
